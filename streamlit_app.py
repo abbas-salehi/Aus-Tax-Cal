@@ -40,3 +40,8 @@ else:
 # Footer
 st.markdown("---")
 st.markdown("This calculator is a simple estimate and does not account for deductions, offsets, or Medicare levy.")
+
+
+st.markdown("---")
+st.markdown("📄 **Bonus PDF:** [Download '5 Ways to Maximise Your Aussie Tax Refund'](https://drive.google.com/file/d/1k07cVTlW1fl7f58VtmYZkItPkueaF480/view?usp=drive_link)")
+
